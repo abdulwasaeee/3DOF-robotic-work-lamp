@@ -1,4 +1,4 @@
-#  3DOF Robotic Work Lamp
+![3DOF Robotic Work Lamp Prototype](prototype.jpg)
 
 An Arduino-controlled 3-DOF robotic arm converted into an articulated work lamp.
 
