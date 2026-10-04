@@ -1,4 +1,6 @@
-![3DOF Robotic Work Lamp Prototype](prototype.jpg)
+<p align="center">
+  <img src="prototype.jpeg" alt="3DOF Robotic Work Lamp Prototype" width="550">
+</p>
 
 An Arduino-controlled 3-DOF robotic arm converted into an articulated work lamp.
 
