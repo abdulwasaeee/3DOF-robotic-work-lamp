@@ -1,4 +1,4 @@
-# 💡 3DOF Robotic Work Lamp
+#  3DOF Robotic Work Lamp
 
 An Arduino-controlled 3-DOF robotic arm converted into an articulated work lamp.
 
@@ -10,7 +10,7 @@ The current prototype uses three MG996R servo motors for the waist, shoulder and
 
 ---
 
-## 💡 Why a robotic lamp?
+##  Why a robotic lamp?
 
 Traditional desk lamps are limited by their hinges and where their base can be positioned.
 
@@ -26,7 +26,7 @@ The goal is to create a work light that can be manually positioned into unusual 
 
 ---
 
-## 🕹️ Controller
+##  Controller
 
 The lamp uses one analog joystick and three push buttons.
 
@@ -44,7 +44,7 @@ The amount the joystick is moved also affects the movement speed.
 
 ---
 
-## 🔧 Hardware
+##  Hardware
 
 - Arduino UNO R4 Minima
 - 3 × MG996R servo motors
@@ -59,7 +59,7 @@ The amount the joystick is moved also affects the movement speed.
 
 ---
 
-## 🔌 Pin Mapping
+##  Pin Mapping
 
 ### Servo motors
 
@@ -81,7 +81,7 @@ The amount the joystick is moved also affects the movement speed.
 
 ---
 
-## ⚡ Power
+##  Power
 
 The MG996R servos are **not powered from the Arduino's 5V pin**.
 
@@ -103,7 +103,7 @@ The Arduino itself is powered through USB during development.
 
 ---
 
-## 🧠 Software
+##  Software
 
 The Arduino keeps track of:
 
@@ -123,7 +123,7 @@ The Arduino firmware can be found here:
 
 ---
 
-## 📐 Current Software Limits
+##  Current Software Limits
 
 These limits are intentionally conservative while the mechanical range of the prototype is being calibrated.
 
@@ -137,7 +137,7 @@ These are software safety limits and may change as the mechanical design is test
 
 ---
 
-## 🧪 Current Status
+##  Current Status
 
 ### Working
 
@@ -162,7 +162,7 @@ These are software safety limits and may change as the mechanical design is test
 
 ---
 
-## 🚀 Possible Future Improvements
+##  Possible Future Improvements
 
 Some ideas I want to explore:
 
@@ -177,7 +177,7 @@ Some ideas I want to explore:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 This project has been a practical introduction to:
 
@@ -196,7 +196,7 @@ One of the biggest lessons was that building the mechanical arm was only part of
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 The 3D-printed robotic arm mechanism is based on the open-source **Bench Robotics 3D-Printed Arm** project, which itself was inspired by the robotic arm design from **How To Mechatronics**.
 
@@ -204,7 +204,7 @@ I modified the project by simplifying it to three main joints, developing a phys
 
 ---
 
-## ⚠️ Safety
+##  Safety
 
 High-torque servos can draw significant current and can move unexpectedly.
 
@@ -216,6 +216,6 @@ High-torque servos can draw significant current and can move unexpectedly.
 
 ---
 
-## 📄 License
+##  License
 
 License information will be added as the project develops.
